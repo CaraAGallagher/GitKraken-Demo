@@ -1,0 +1,47 @@
+---
+title: "GitKraken Demo Project"
+output:
+  html_document:
+    df_print: paged
+    toc: yes
+  pdf_document:
+    toc: yes
+  word_document:
+    toc: yes
+  toc: yes
+  html_notebook: 
+      toc: yes
+---
+
+```{r, setup, include=FALSE, message=FALSE}
+knitr::opts_knit$set(root.dir = "C:/Users/cara/Dropbox/PC/Documents/Presentations/Workshops/GitKraken Demo/")
+```
+
+Cara A. Gallagher  
+Postdoctoral researcher  
+University of Potsdam  
+Notebook started:   
+
+#### Project focus:  
+
+
+#### Collaborators:  
+
+
+***  
+
+### Entry: template
+
+#### General information:
+__Date__:  
+__Author__: Cara A. Gallagher  
+__Trace tag__:       
+__Keyword__:        
+__Title__:   
+__Overview__:  
+__Files__:  
+  
+#### Specific details:  
+
+
+***  
