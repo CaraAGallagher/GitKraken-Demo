@@ -19,6 +19,14 @@ mean_outs <- penguins %>%
 
 write.csv(mean_outs, "Data/MeansBySpSex.csv", row.names = FALSE)
 
+
+median_outs <- penguins %>% 
+  group_by(species, sex) %>% 
+  summarize(across(where(is.numeric), median, na.rm = TRUE))
+
+write.csv(median_outs, "Data/MediansBySpSex.csv", row.names = FALSE)
+
+
 #### Now let's make a plot ####
 ## Plots from allisonhorst.github.io/palmerpenguins/articles/examples.html#facets
 

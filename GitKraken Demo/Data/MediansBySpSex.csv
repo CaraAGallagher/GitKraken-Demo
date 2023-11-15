@@ -1,0 +1,9 @@
+"species","sex","bill_length_mm","bill_depth_mm","flipper_length_mm","body_mass_g","year"
+"Adelie","female",37,17.6,188,3400,2008
+"Adelie","male",40.6,18.9,193,4000,2008
+"Adelie",NA,37.8,18.1,186,3475,2007
+"Chinstrap","female",46.3,17.65,192,3550,2008
+"Chinstrap","male",50.95,19.3,200.5,3950,2008
+"Gentoo","female",45.5,14.25,212,4700,2008
+"Gentoo","male",49.5,15.7,221,5500,2008
+"Gentoo",NA,45.35,14.35,216,4687.5,2009
